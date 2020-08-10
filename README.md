@@ -1,16 +1,21 @@
-### Hi there 👋
+# Greetings! 👋
 
-<!--
-**stephencorwin/stephencorwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a professional Web Developer and hobbyist Game Developer. My preferred stack is [TypeScript](https://typescriptlang.org/), [Node.js](https://nodejs.org/), [React](https://reactjs.org/), [Styled-Components](https://styled-components.com/), [Redis](https://redis.io/).
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- TypeScript -->
+  <a style="margin: 10px;" target="_blank" href="https://typescriptlang.org/"><img height="100px" alt="TypeScript" src="./resources/typescript-logo.png"></a>
+  <!-- Node.JS -->
+  <a style="margin: 10px;" target="_blank" href="https://nodejs.org/"><img height="100px" alt="Node.js" src="./resources/nodejs-logo.svg"></a>
+  <!-- React -->
+  <a style="margin: 10px;" target="_blank" href="https://reactjs.org/"><img height="100px" alt="React" src="./resources/react-logo.png"></a>
+  <!-- Styled-Components -->
+  <a style="margin: 10px;" target="_blank" href="https://styled-components.com/"><img height="100px" alt="Styled-Components" src="./resources/styled-components-logo.png"></a>
+  <!-- Redis -->
+  <a style="margin: 10px;" target="_blank" href="https://redis.io/"><img height="100px" alt="Redis" src="./resources/redis-logo.svg"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lately I have been working on a multiplayer digital card game powered by [react-three-fiber](https://github.com/react-spring/react-three-fiber). In fact, I become a maintainer not too long ago for [react-spring](https://github.com/react-spring/), which is the parent org for [react-three-fiber](https://github.com/react-spring/react-three-fiber).
+
+### **Come join the discussion on Discord!**  
+[![Discord Shield](https://discordapp.com/api/guilds/740090768164651008/widget.png?style=banner2)](https://discord.gg/ZZjjNvJ)
