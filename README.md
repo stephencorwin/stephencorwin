@@ -15,7 +15,7 @@ I'm a professional Web Developer and hobbyist Game Developer. My preferred stack
   <a style="margin: 10px;" target="_blank" href="https://redis.io/"><img height="100px" alt="Redis" src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/redis-logo.svg"></a>
 </p>
 
-Lately I have been working on a multiplayer digital card game powered by [react-three-fiber](https://github.com/react-spring/react-three-fiber). In fact, I become a maintainer not too long ago for [react-spring](https://github.com/react-spring/), which is the parent org for [react-three-fiber](https://github.com/react-spring/react-three-fiber).
+Lately, I have been working on a multiplayer digital card game powered by [react-three-fiber](https://github.com/react-spring/react-three-fiber). In fact, I actually become a maintainer for [react-spring](https://github.com/react-spring/), which is the parent org for [react-three-fiber](https://github.com/react-spring/react-three-fiber). It's been a fun experience to both create a game as well as contribute back to the engine it depends on. 😎
 
 ### **Come join the discussion on Discord!**  
 [![Discord Shield](https://discordapp.com/api/guilds/740090768164651008/widget.png?style=banner2)](https://discord.gg/ZZjjNvJ)
