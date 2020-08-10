@@ -1,10 +1,10 @@
 # Greetings! 👋
 
-I'm a professional Web Developer and hobbyist Game Developer. My preferred stack is [TypeScript](https://typescriptlang.org/), [Node.js](https://nodejs.org/), [React](https://reactjs.org/), [Styled-Components](https://styled-components.com/), [Redis](https://redis.io/).
+I'm a professional Web Developer and hobbyist Game Developer. My preferred stack is [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/), [React](https://reactjs.org/), [Styled-Components](https://styled-components.com/), [Redis](https://redis.io/).
 
 <p align="center">
   <!-- TypeScript -->
-  <a style="margin: 10px;" target="_blank" href="https://typescriptlang.org/"><img height="100px" alt="TypeScript" src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/typescript-logo.png"></a>
+  <a style="margin: 10px;" target="_blank" href="https://www.typescriptlang.org/"><img height="100px" alt="TypeScript" src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/typescript-logo.png"></a>
   <!-- Node.JS -->
   <a style="margin: 10px;" target="_blank" href="https://nodejs.org/"><img height="100px" alt="Node.js" src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/nodejs-logo.png"></a>
   <!-- React -->
