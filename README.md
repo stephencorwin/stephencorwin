@@ -6,7 +6,7 @@ I'm a professional Web Developer and hobbyist Game Developer. My preferred stack
   <!-- TypeScript -->
   <a style="margin: 10px;" target="_blank" href="https://typescriptlang.org/"><img height="100px" alt="TypeScript" src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/typescript-logo.png"></a>
   <!-- Node.JS -->
-  <a style="margin: 10px;" target="_blank" href="https://nodejs.org/"><img height="100px" alt="Node.js" src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/nodejs-logo.svg"></a>
+  <a style="margin: 10px;" target="_blank" href="https://nodejs.org/"><img height="100px" alt="Node.js" src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/nodejs-logo.png"></a>
   <!-- React -->
   <a style="margin: 10px;" target="_blank" href="https://reactjs.org/"><img height="100px" alt="React" src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/react-logo.png"></a>
   <!-- Styled-Components -->
